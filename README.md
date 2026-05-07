@@ -2,8 +2,6 @@
 
 A repository containing all my **notes and exercises** from the Python course by **Gustavo Guanabara** on the [Curso em Vídeo](https://www.youtube.com/@CursoemVideo) YouTube channel — one of the most popular free Python courses in Brazil.
 
-> ⚠️ This repository is constantly being updated as I progress through the course!
-
 ---
 
 ## 🎯 Goal
